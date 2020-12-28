@@ -1,0 +1,7 @@
+﻿  MeshViewerWidget.cpp
+D:\CPP\Surface_Framework_VS2017\SurfaceMeshProcessing\MeshViewer\MeshViewerWidget.cpp(509,54): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  vec3.cpp
+D:\CPP\Surface_Framework_VS2017\SurfaceMeshProcessing\SwcViewer\vec3.cpp(44,43): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+  正在生成代码...
+  qrc_surfacemeshprocessing.cpp
+  SurfaceMeshProcessing.vcxproj -> D:\CPP\Surface_Framework_VS2017\x64\Debug\SurfaceMeshProcessing.exe
